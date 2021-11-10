@@ -1,4 +1,4 @@
-# Employee-Analysis-Classification-of-Employees-leaving-their-Jobs-Decision-Tree-Random-Forest-MLP
+# Employee-Analysis-Classification-of-Employees-leaving-their-Jobs-Decision-Tree-Random-Forest-MLP-Deep Neural Network
 
 ## Overview:
 
