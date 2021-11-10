@@ -82,4 +82,4 @@ Random Forest is less computationally expensive and does not require a GPU to fi
 
 ## **Final Result** 
 
-If the company could remove the Over Time policy, employees could stay at the company to work for longer.
+**If the company could remove the Over Time policy, employees could stay at the company to work for longer.**
