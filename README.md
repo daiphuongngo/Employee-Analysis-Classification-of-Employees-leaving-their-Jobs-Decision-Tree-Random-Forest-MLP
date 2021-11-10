@@ -44,11 +44,9 @@
 
 ## Correlation between features using the Pearson correlation
 
-$$ 
-
+$ 
 r_{xy}={\frac {\sum _{i=1}^{n}(x_{i}-{\bar {x}})(y_{i}-{\bar {y}})}{{\sqrt {\sum _{i=1}^{n}(x_{i}-{\bar {x}})^{2}}}{\sqrt {\sum _{i=1}^{n}(y_{i}-{\bar {y}})^{2}}}}}
-
-$$
+$
 
 <img src="https://user-images.githubusercontent.com/70437668/141025341-0672dd27-cb79-4efb-a496-ff983e923a43.jpg" width=50% height=50%>
 
